@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AhmedMuhamedD
 - 👀 I’m interested in Coding
-- 🌱 I’m currently Improving my skills in React.Js with Projects and problem solving skills with JS
-- 💞️ I’m looking for any opputunity as Front-End developer
 - 📫 How to reach me "ahmed.muhameddesouky@outlook.com OR +201026049135"
 
 <!---
